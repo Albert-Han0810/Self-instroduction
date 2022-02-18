@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Albert-Han0810
-- 👀 I’m interested in 
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning in Northwestern Polytechnical University.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me by the Email 1943737709@qq.com 
 
 <!---
 Albert-Han0810/Albert-Han0810 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
